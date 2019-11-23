@@ -15,7 +15,7 @@
 
 2. Πηγαίνετε στις ρυθμίσεις, `Editor`->`Code Style`->`Εικονίδιο γρανάζι`->`Import Scheme`->`IntelliJ IDEA code style XML`, και επιλέγετε το `intellij-java-google-style.xml` που βρίσκετε στον `codestyle` φάκελο (οποίος είναι κομμάτι του project).
 
-3. Κάτω γράφει κάπου `Git: master`. Επιλέξτε το branch με το δικό σας αριθμό μέλους και κάντε `checkout`.
+3. Πατήστε εκεί που γράφει `Git: master`. Επιλέξτε το branch με το δικό σας αριθμό μέλους και κάντε `checkout`.
 
 ## Οδηγίες για συγχρονισμό προς Git με την χρήση του IntelliJ IDEA
 
