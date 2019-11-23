@@ -1,0 +1,6 @@
+apply plugin: 'idea'
+apply plugin: 'java'
+
+// Compile against Java 8
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
